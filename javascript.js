@@ -1,5 +1,5 @@
 function danceBtn(){
-  window.location='';
+  window.location='https://alind6190.github.io/Portfolio/dance.HTML';
 }
 
 function photoBtn(){
